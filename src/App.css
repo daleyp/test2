@@ -1,0 +1,163 @@
+.header-color {
+  background:linear-gradient(to right, rgb(0, 169, 255), rgb(232, 76, 241));  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, rgb(0, 169, 255), rgb(232, 76, 241)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+.landing-grid {
+  background:linear-gradient(to right, rgb(0, 169, 255), rgb(232, 76, 241));  /* fallback for old browsers */
+  background: -webkit-linear-gradient(to right, rgb(0, 169, 255), rgb(232, 76, 241));  /* Chrome 10-25, Safari 5.1-6 */
+  background: linear-gradient(to right, rgb(0, 169, 255), rgb(232, 76, 241)); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+  text-align: center;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+.projects-grid {
+  display: flex;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  top: 0;
+  background:linear-gradient(to right, rgb(0, 169, 255), rgb(232, 76, 241));
+  font-family: 'Anton';
+
+
+}
+
+/* Resume Page css */
+.resume-right-col {
+  background: #27221F;
+  color: white;
+  padding: 2em;
+}
+
+/* contact page css */
+
+.contact-body {
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+  background:linear-gradient(to right, rgb(0, 169, 255), rgb(232, 76, 241));
+  font-family: 'Anton';
+
+}
+
+.contact-grid {
+  text-align: center;
+  justify-content: center;
+  width: 80%;
+  height: 550px;
+  margin-bottom: 20px;
+}
+
+.contact-grid h2 {
+  font-family: 'Anton';
+  font-weight: normal;
+  color: rgba(0, 0, 0, 0.701);
+}
+
+.contact-grid p {
+  font-family: 'Anton';
+  font-size: 1.3rem;
+  padding-top: 0px;
+  color: rgba(0, 0, 0, 0.701);
+  
+}
+
+.contact-grid hr {
+  border-top: 5px solid black;
+  width: 50%;
+  margin: auto;
+}
+
+.contact-list i {
+  font-size: 66px;
+  padding-right: 3rem;
+  color: rgba(0, 0, 0, 0.701);
+
+}
+
+/* contact page css */
+
+.avatar-img {
+  height: 250px;
+  margin-top: 10rem;
+  border-radius: 80%;
+}
+
+.banner-text {
+  background-color: linear-gradient(to right, rgb(152, 251, 210), rgb(202, 18, 242));
+  opacity: .8;
+  width: 75%;
+  margin: auto;
+  border-radius: 2px;
+ 
+}
+
+.banner-text h1 {
+  font-size: 66px;
+  font-weight: bold;
+  color: rgba(0, 0, 0, 0.701);
+  font-family: 'Anton';
+}
+
+.banner-text hr {
+  height:4px; border:none; color:rgba(0, 0, 0, 0.701); background-color:rgba(0, 0, 0, 0.701); width:60%; text-align:center; margin: 0 auto;
+}
+
+.banner-text p {
+  color: rgba(0, 0, 0, 0.701);
+  font-size: 25px;
+  padding: 2em;
+  font-family: 'Anton';
+
+}
+
+.social-links {
+  display: flex;
+  justify-content: center;
+  width: 50%;
+  margin: auto;
+  
+  
+}
+
+.social-links i {
+  color:rgba(0, 0, 0, 0.701);
+  font-size: 5em;
+  padding: 8px;
+}
+
+.about-grid {
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+  background:linear-gradient(to right, rgb(0, 169, 255), rgb(232, 76, 241));
+  font-family: 'Anton';
+}
+
+.resume-grid {
+  margin: auto;
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  justify-content: center;
+  padding-top: 2em;
+  background:linear-gradient(to right, rgb(0, 169, 255), rgb(232, 76, 241));
+  font-family: 'Anton';
+}
+
+
+
+
